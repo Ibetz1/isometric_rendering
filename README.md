@@ -3,3 +3,6 @@ This is an engine that piggy backs off of love2D to render isometric textures. I
 
 # purpose
 I built this to further understand the interactions between different geometric perspectives and to increase my skills in linear algebra. Enjoy!
+
+# Docs
+Documentation still needs to be created for this project.
